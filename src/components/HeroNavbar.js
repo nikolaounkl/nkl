@@ -3,7 +3,7 @@ import {ThemeContext} from '../contexts/ThemeContext';
 
 const HeroNavbar = () => {
     const {darkMode, toggleTheme} = useContext(ThemeContext);
-    const icon = darkMode ? "fas fa-sun" : "fas fa-moon";
+    const icon = darkMode ? "fas fa-sun fa-lg" : "fas fa-moon fa-lg";
     return (
         <div className="hero-head">
             <header className="navbar">
@@ -14,8 +14,8 @@ const HeroNavbar = () => {
                     <div id="navbarMenuHeroC" className="navbar-menu">
                         <div className="navbar-end">
                             <span className="navbar-item">
-                                <button onClick={toggleTheme} className="button is-warning is-inverted" href="#" rel="noopener noreferrer">
-                                    <span className="icon">
+                                <button onClick={toggleTheme} className="button is-dark" href="#" rel="noopener noreferrer">
+                                    <span className="icon has-text-warning">
                                         <i className={icon}></i>
                                     </span>
                                 </button>
