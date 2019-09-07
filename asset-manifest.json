@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nkl/static/css/main.27bedd4b.chunk.css",
+    "main.js": "/nkl/static/js/main.d5a98a06.chunk.js",
+    "main.js.map": "/nkl/static/js/main.d5a98a06.chunk.js.map",
+    "runtime~main.js": "/nkl/static/js/runtime~main.47b03e34.js",
+    "runtime~main.js.map": "/nkl/static/js/runtime~main.47b03e34.js.map",
+    "static/css/2.ebb3c762.chunk.css": "/nkl/static/css/2.ebb3c762.chunk.css",
+    "static/js/2.bef8f77f.chunk.js": "/nkl/static/js/2.bef8f77f.chunk.js",
+    "static/js/2.bef8f77f.chunk.js.map": "/nkl/static/js/2.bef8f77f.chunk.js.map",
+    "index.html": "/nkl/index.html",
+    "precache-manifest.aefbb203f21821739a46a8f59f1db413.js": "/nkl/precache-manifest.aefbb203f21821739a46a8f59f1db413.js",
+    "service-worker.js": "/nkl/service-worker.js",
+    "static/css/2.ebb3c762.chunk.css.map": "/nkl/static/css/2.ebb3c762.chunk.css.map",
+    "static/css/main.27bedd4b.chunk.css.map": "/nkl/static/css/main.27bedd4b.chunk.css.map",
+    "static/media/all.min.css": "/nkl/static/media/fa-solid-900.ef3df984.eot"
+  }
+}
